@@ -37,6 +37,7 @@ This repository contains two `n8n` workflows:
 ### Prerequisites
 - [n8n](https://n8n.io) self-hosted or cloud instance
 - [Airtable API Token](https://airtable.com/account)
+- You can duplicate this table and use without excess need of configuration [Airtable][https://airtable.com/invite/l?inviteId=invzyd9xa4cMHGvFk&inviteToken=bcc8de91bde4bb6744627391164e2ba118a0e946e4847da2157cf005cce0f9ad&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts]
 - [VAPI.ai](https://vapi.ai) Assistant & API key
 
 ### Airtable Structure
