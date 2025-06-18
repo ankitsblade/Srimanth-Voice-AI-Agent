@@ -1,10 +1,6 @@
 # Srimanth-Voice-AI-Agent
 Srimanth is a voice AI Agent that calls leads from the company database to enquire more about their requirements
 
-Here’s a polished GitHub README.md tailored for your **n8n workflows** integrated with **VAPI.ai** and **Airtable**. You can copy this into your project’s README on GitHub:
-
----
-
 # 📞 n8n + VAPI.ai Outbound Call Automation
 
 This repository contains two `n8n` workflows:
